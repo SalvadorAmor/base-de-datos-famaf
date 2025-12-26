@@ -1,0 +1,9 @@
+-como levantar docker
+docker start mongo-labs-open
+docker ps
+
+-como copiar una carpeta o archivo al backup de mongo-labs
+docker cp <archivo/carpeta> mongo-labs-open:/Backup/<archivo/carpeta>
+
+-como entrar al bash de mongo
+docker exec -it mongo-labs-open bash

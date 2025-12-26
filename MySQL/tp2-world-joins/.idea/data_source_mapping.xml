@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/51683bbf-9d8f-4e0e-9d42-61cbb1caac7c/console.js" value="51683bbf-9d8f-4e0e-9d42-61cbb1caac7c" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/9aa849f7-7c43-4af3-a8dd-be883742992b/console.sql" value="9aa849f7-7c43-4af3-a8dd-be883742992b" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/9aa849f7-7c43-4af3-a8dd-be883742992b/console_2.sql" value="9aa849f7-7c43-4af3-a8dd-be883742992b" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/c0e2e846-2974-4569-9c35-7eb714d57187/console.sql" value="c0e2e846-2974-4569-9c35-7eb714d57187" />
+    <file url="file://$PROJECT_DIR$/../Parcial  1 -2023/solutions.sql" value="9aa849f7-7c43-4af3-a8dd-be883742992b" />
+    <file url="file://$PROJECT_DIR$/../Parcial 1 - 2024/queries.sql" value="9aa849f7-7c43-4af3-a8dd-be883742992b" />
+    <file url="file://$PROJECT_DIR$/../Parcial 1 - 2025/soluciones.sql" value="9aa849f7-7c43-4af3-a8dd-be883742992b" />
+    <file url="file://$PROJECT_DIR$/../tp3-world-subqueries/queries.sql" value="9aa849f7-7c43-4af3-a8dd-be883742992b" />
+    <file url="file://$PROJECT_DIR$/../tp4-sakila/queries.sql" value="9aa849f7-7c43-4af3-a8dd-be883742992b" />
+  </component>
+</project>
